@@ -1,0 +1,5 @@
+[
+  { "id": "openclaw-repo", "url": "https://github.com/openclaw/openclaw", "act": [["wait", 1.5], ["scroll", 600, 6]] },
+  { "id": "star-history", "url": "https://www.star-history.com/#openclaw/openclaw&Date", "act": [["wait", 4], ["scroll", 250, 3]] },
+  { "id": "dot-com-redirect", "url": "about:blank", "act": [["goto", "https://dot.com"], ["wait", 4], ["scroll", 400, 3]] }
+]

@@ -38,7 +38,7 @@ claude
 /edit-video ตัดต่อคลิปนี้ /path/to/my-video.mov
 ```
 
-ดูคู่มือภาษาไทยแบบละเอียดได้ที่ Google Doc ที่แนบมากับ repo นี้
+📖 **คู่มือภาษาไทยแบบละเอียด:** [Google Doc](https://docs.google.com/document/d/1GpJ2mJDrOIXAjw_2VFztfj8HVDfNjtHzDvUQmG2CMm8/edit)
 
 ## English (short)
 This repo is a drop-in replacement for the `edit-video` skill in Nate Herk's HyperFrames Student Kit. It adds two long-form defaults:
